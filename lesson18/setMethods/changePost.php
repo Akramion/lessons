@@ -1,9 +1,9 @@
 <?php 
-require 'file';
+require 'db!!';
 function changePost()
 {
 	
 }
 
-
+Принимаете данные
  ?>
